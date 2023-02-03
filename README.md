@@ -1,4 +1,4 @@
-# MaxCLK: discovery of cancer driver genes via maximum clique and information entropy of modules
+# MaxCLK: discovery of cancer driver genes via maximal clique and information entropy of modules
 
 
 ### This is the original repository for the MaxCLK paper. 
