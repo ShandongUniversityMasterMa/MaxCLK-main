@@ -24,7 +24,7 @@ Ubantu 21.04
 
 ### Protein Protein Interaction (PPI) network
 
-There are two kinds of files: the Protein Protein Interaction (PPI) network edges file and the nodes to index mapping file, including three different PPI networks. All the PPI network files can be download from http://compbio-research.cs.brown.edu/pancancer/hotnet2/
+There are two kinds of files: the Protein Protein Interaction (PPI) network edges file and the nodes to index mapping file, including three different PPI networks. All the PPI network files can be download from https://sourceforge.net/projects/cancer-pathway/files/
 
 1.The PPI network file
 
